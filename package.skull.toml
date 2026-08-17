@@ -1,0 +1,9 @@
+format = 0
+
+[package]
+name = "github.com/luyten-orion/syllabos"
+
+#[dependencies.foo]
+#src = "https://example.forge/foo/bar.git"
+#version = "x.y.z" #OR refr = "taghere"
+#foreign-pm = "nimble" #IF NIMBLE
